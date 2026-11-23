@@ -1,0 +1,240 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%lld" : {
+
+    },
+    "Accent" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acento"
+          }
+        }
+      }
+    },
+    "Background" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fondo"
+          }
+        }
+      }
+    },
+    "Body" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cuerpo"
+          }
+        }
+      }
+    },
+    "Content will appear here when available." : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El contenido aparecerá aquí cuando esté disponible."
+          }
+        }
+      }
+    },
+    "Caption" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Texto auxiliar"
+          }
+        }
+      }
+    },
+    "Colors" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colores"
+          }
+        }
+      }
+    },
+    "Configuration" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuar"
+          }
+        }
+      }
+    },
+    "CTA button" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Botón de acción"
+          }
+        }
+      }
+    },
+    "Debug" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debug"
+          }
+        }
+      }
+    },
+    "Empty state" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado vacío"
+          }
+        }
+      }
+    },
+    "Default" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Predeterminado"
+          }
+        }
+      }
+    },
+    "Design system" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Design system preview"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Design system preview"
+          }
+        }
+      }
+    },
+    "Done" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Listo"
+          }
+        }
+      }
+    },
+    "Editorial" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Editorial" } }
+      }
+    },
+    "Editorial shows Unsplash's latest photos in order." : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Editorial muestra las fotos más recientes de Unsplash en orden." } }
+      }
+    },
+    "Explore feed" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Fotos de Explorar" } }
+      }
+    },
+    "Grid columns" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Columnas de la cuadrícula"
+          }
+        }
+      }
+    },
+    "No content yet" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aún no hay contenido"
+          }
+        }
+      }
+    },
+    "Random" : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Aleatorio" } }
+      }
+    },
+    "Random shows a fresh mix of photos in each batch." : {
+      "localizations" : {
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Aleatorio muestra una nueva selección de fotos en cada lote." } }
+      }
+    },
+    "Secondary title" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título secundario"
+          }
+        }
+      }
+    },
+    "Settings" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajustes"
+          }
+        }
+      }
+    },
+    "Title" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Título"
+          }
+        }
+      }
+    },
+    "Typography" : {
+      "localizations" : {
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipografía"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

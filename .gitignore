@@ -1,0 +1,12 @@
+.DS_Store
+.env
+App/Resources/UnsplashConfig.plist
+.build/
+**/.build/
+.swiftpm/
+**/.swiftpm/
+DerivedData/
+Vistora.xcodeproj/
+App/Info.plist
+xcuserdata/
+Packages/**/Package.resolved
